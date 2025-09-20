@@ -2,6 +2,8 @@
 
 **Optimizing Courier Operations, Delivery SLAs, and Payment Reconciliation through Data-Driven Insights**
 
+<img width="1109" height="624" alt="Cover Image" src="https://github.com/user-attachments/assets/afb28878-b56f-4b35-8884-4a3e11a0486b" />
+
 ---
 
 ##  Project Purpose  
