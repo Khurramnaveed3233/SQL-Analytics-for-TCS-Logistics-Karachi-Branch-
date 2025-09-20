@@ -264,7 +264,7 @@ Below are the six key operational issues identified through SQL analysis of the 
 
 ---
 
-## 🚀 Actionable Insights
+##  Actionable Insights
 
 The following targeted actions are derived from SQL‑based analysis of six critical operational challenges at the Karachi branch.  
 Each insight is directly linked to a measurable business outcome.
